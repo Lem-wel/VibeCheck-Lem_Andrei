@@ -32,6 +32,7 @@ const jokes = [
   "Why did the developer go broke? Because they used up all their cache.",
   "My code has two moods: works or why-is-this-happening.",
   "I told my program a joke... it just threw an exception.",
+  "Pag ang palay ay naging bigas...  may bumayo",
 ];
 
 const vibeMap = {
