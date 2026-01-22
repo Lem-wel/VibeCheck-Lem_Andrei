@@ -72,7 +72,7 @@ app.get("/api/vibe", (req, res) => {
 
 // POST /api/smash -> increases counter and returns the updated value
 app.post("/api/smash", (req, res) => {
-  smashes += 2;
+  smashes += 1;
   res.json({ smashes });
 });
 
