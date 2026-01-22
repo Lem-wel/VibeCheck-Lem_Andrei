@@ -18,8 +18,13 @@ Click the buttons to see the API responses appear in the output box.
 Endpoints
 
 GET /api/fortune -> returns { fortune: "..." } - tell a random fortune message
+
 GET /api/joke -> returns { joke: "..." } - tell a one liner joke
+
 GET /api/vibe?mood=happy|tired|stressed -> returns { mood, emoji, message } - gives mood randomly
+
 POST /api/smash -> increases a counter and returns { smashes: number } - increases smash counter by 1
+
 GET /api/smashes -> returns { smashes: number } - show number of smashes
+
 GET /api/secret?code=411L - secret
